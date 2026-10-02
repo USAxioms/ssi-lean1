@@ -2,6 +2,9 @@
 
 Lean 4 formalization of the **Safe Super Intelligence Axiomatic System v1.0** by Michael Aaron Russell: a formal specification for human-guided, verifiably safe superintelligence.
 
+Research Documentation: DOI 10.13140/RG.2.2.31175.46243
+Author Identifier: ORCID 0009-0001-3360-6709
+
 $$SSI = SI \cap VS \cap HG \cap AUTH \cap VER$$
 
 Pure Lean 4 core: no Mathlib, no external dependencies.
